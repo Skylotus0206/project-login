@@ -2,7 +2,7 @@
 // the requests will be routed to decent modules as needed.
 
 'use strict';
-//* module
+//* m odule
 const express = require('express'); //@ import express module
 const app = express(); //@ operate express.js
 const PORT = 3000;
